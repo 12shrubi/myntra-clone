@@ -3,3 +3,4 @@ This is a Myntra Clone web application that replicates the core features of the 
 
 Tech Stack: React | HTML | CSS | JavaScript 
 
+Extract the files and then open the index.html page it will work.
